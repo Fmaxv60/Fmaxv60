@@ -40,7 +40,7 @@ const HeroContent = () => {
                 className="text-lg text-gray-400 my-5 max-w-[600px]"
                 >
                     I&apos;m an engineer with skills in electronics and programming. 
-                    Ckeck out my poject and skills for more informations.
+                    Check out my project and skills for more informations.
                 </motion.p>
 
                 <motion.a
