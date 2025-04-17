@@ -4,7 +4,7 @@
 
 ## 👤 Who I am:
 
-  Hi I'm Maxime Violette</br>I am currently working for <b>Valéo Amiens</b> as <b>R&D DSIS Operation</b>
+  Hi I'm Maxime Violette</br>I am currently working for <b>Valéo Amiens</b> as <b>R&D DSIS Operation Engineer Apprentice.</b>
 
 </br>
 
