@@ -55,7 +55,7 @@ export const Skill_data = [
     {
       name: "Github",
       src: "/gitwhite.png",
-      link: "https://www.instagram.com/fmaxv60/",
+      link: "https://github.com/Fmaxv60",
       width: 24,
       height: 24,
     },
