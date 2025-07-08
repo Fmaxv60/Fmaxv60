@@ -15,6 +15,13 @@ In my free time, I work on personal projects ranging from web development to Dev
 
 ---
 
+## 🚀 Current Projects & Interests
+
+- [__Peasy Money__](https://github.com/Fmaxv60/peasy-money)
+- [__Portfolio__](https://github.com/Fmaxv60/portfolio)
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-violette) 
@@ -52,30 +59,3 @@ In my free time, I work on personal projects ranging from web development to Dev
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
----
-
-## 🚀 Current Projects & Interests
-
-- (__Peasy Money__)[https://github.com/Fmaxv60/peasy-money]
-- (__Portfolio__)[https://github.com/Fmaxv60/portfolio]
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximeViolette&show_icons=true&theme=radical" alt="Maxime's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximeViolette&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeViolette&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## ✨ Fun Fact
-
-> "I love blending hardware and software together — whether it’s making a buzzer play *Megalovania*, building APIs, or developing multiplayer games!"
-
----
