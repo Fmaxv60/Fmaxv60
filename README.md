@@ -57,8 +57,8 @@ In my free time, I work on personal projects ranging from web development to Dev
 
 ## 🚀 Current Projects & Interests
 
-- (__Peasy Money__)[github.com/Fmaxv60/peasy-money]
-- (__Portfolio__)[github.com/Fmaxv60/portfolio]
+- (__Peasy Money__)[https://github.com/Fmaxv60/peasy-money]
+- (__Portfolio__)[https://github.com/Fmaxv60/portfolio]
 
 ---
 
