@@ -11,7 +11,7 @@ Hi there! I'm **Maxime Violette**, a passionate and curious engineer currently w
 
 I enjoy building things — whether it's developing full-stack web applications, working with embedded systems, or automating tasks with Python. I'm always eager to learn new technologies, tackle challenges, and improve my technical skills.
 
-In my free time, I work on personal projects ranging from web development to electronics, game development, and financial data visualization. I also enjoy diving into topics like cybersecurity, networks, and DevOps.
+In my free time, I work on personal projects ranging from web development to DevOps, game development, and financial data visualization. I also enjoy working on my own infrastructure.
 
 ---
 
@@ -57,11 +57,8 @@ In my free time, I work on personal projects ranging from web development to ele
 
 ## 🚀 Current Projects & Interests
 
-- 🎮 **Spotigame** — A multiplayer guessing game powered by Spotify API.
-- 📊 **Financial Dashboards** — Personal finance trackers with FastAPI, React, and PostgreSQL.
-- 🌐 **Embedded Systems** — STM32, FreeRTOS, CAN bus communication, RS232.
-- ⚙️ **Automation & Scripts** — Python tools to simplify daily tasks.
-- 🕹️ **Hobby Electronics** — Arduino, Raspberry Pi, sensors, and real-time systems.
+- (__Peasy Money__)[github.com/Fmaxv60/peasy-money]
+- (__Portfolio__)[github.com/Fmaxv60/portfolio]
 
 ---
 
