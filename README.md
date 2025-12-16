@@ -3,9 +3,9 @@
   Bienvenue sur mon Github !
 </h1>
 
-Bonjour, je suis Maxime Violette !
 Passionné par les nouvelles technologies, j’ai choisi de me spécialiser en ingénierie des réseaux informatiques et des objets connectés après avoir obtenu mon bac. J’ai intégré UniLaSalle Amiens, une école d’ingénieurs qui m’a permis, dès la troisième année, de suivre ma formation en alternance. C’est dans ce cadre que j’ai rejoint Valeo en tant que R&D DSIS Operation Engineer, poste que j'occupe actuellement jusqu'en aout 2026.
-Pour en savoir un peu plus sur moi ou sur mes projets, tu peux consulter [mon site](mviolette.fr) .
+
+Pour en savoir un peu plus sur moi ou sur mes projets, tu peux consulter [mon site](https://mviolette.fr) .
 
 ---
 
