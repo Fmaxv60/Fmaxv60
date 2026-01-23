@@ -10,6 +10,7 @@ Pour en savoir un peu plus sur moi ou sur mes projets, tu peux consulter [mon si
 
 ## 🚀 Projets du moment
 
+- [__Cineclub__](https://github.com/Fmaxv60/cineclub)
 - [__Peasy Money__](https://github.com/Fmaxv60/peasy-money)
 - [__Portfolio__](https://github.com/Fmaxv60/portfolio)
 
@@ -34,6 +35,7 @@ To learn more about me or my projects, you can visit [my website](https://mviole
 
 ## 🚀 Current Project
 
+- [__Cineclub__](https://github.com/Fmaxv60/cineclub)
 - [__Peasy Money__](https://github.com/Fmaxv60/peasy-money)
 - [__Portfolio__](https://github.com/Fmaxv60/portfolio)
 
